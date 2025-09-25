@@ -1,0 +1,5 @@
+.env
+node_modules/
+deploy/*.zip
+deploy/env.json
+response.json
